@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <title>logo</title>
+    <head>
+        <body>
+            <img src="img/LOGO.png" width="200" height="200"alt="Logo Kabupaten Pekalongan">
+        </body>
+    </body></head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UMKM di Kabupaten Pekalongan</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f3f3f3;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #eee018;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        section {
+            padding: 2rem;
+            max-width: 800px;
+            margin: auto;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            color: #666;
+            line-height: 1.6;
+        }
+        .pesantren-image {
+            width: 100%;
+            max-width: 800px;
+            height: auto;
+            margin-bottom: 1rem;
+            border-radius: 8px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            margin-top: 1rem;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>UMKM di Kabupaten Pekalongan</h1>
+</header>
+
+<section>
+    <h2>Tentang UMKM di kabupaten pekalongan</h2>
+    <p>Perkembangan UMKM di Kabupaten Pekalongan terus meningkat dari segi kualitasnya, hal ini dikarenakan dukungan kuat dari pemerintah dalam pengembangan yang dilakukan kepada para pegiat usaha UMKM, yang mana hal tersebut sangat penting dalam mengantisipasi kondisi perekonomian ke depan serta menjaga dan memperkuat struktur perekonomian nasional.</p>
+    <img src="img/umkm kab pekalongan.jpg"width="800" height="300"Gambar umkm kabupaten pekalongan" class="umkm kab Pekalongan">
+</section>
+
+<section>
+    <h2>Beberapa UMKM yang berkembang di Kabupaten Pekalongan</h2>
+    <ul>
+        <li>
+            <strong>UMKM di bidang Fashion Jeans</strong> - UMKM Fashion merupakan salah satu bentuk usaha yang paling cepat dalam perkembangannya. Dari segi rantai perdagangan, mulai dari produksi, distribusi dan konsumsi semua tersedia melimpah ruah. Fakta ini menumbuhkan lingkungan yang bersaing bagi pelaku UMKM.
+            <br>
+            <br><br>
+            <img src="img/jeans.jpg" alt="jeans" width="300" height="150">
+        </li>
+        <br><br>
+        <li>
+            <strong>UMKM di bidang Kuliner</strong> - KULINER merupakan salah satu contoh nyata dari keragaman dan kekayaan budaya. salah satunya seperti usaha ayam dan bebek ungkep Ummu Ayya ini ,Ide usaha bisa datang dari mana saja. Hal inilah yang dialami oleh Tatiek Indah Purwanti Handayani, pengusaha ayam dan bebek ungkep “Ummu Ayya”. Usaha tersebut berawal dari kebiasaan Tatiek menyiapkan makanan sehat untuk keluarganya.
+            <br><br>
+            <br>
+            <img src="img/makanan.jpg" alt="Makanan" width="300" height="150">
+            <br><br>
+        </li>
+        <li>
+            <strong>UMKM di bidang Fashion Batik</strong> - UMKM batik mampu meningkatkan perekomomian masyarakat serta membangkitkan semangat nasionalisme. Dengan demikian sehingga upaya pelestarian batik selalu dilakukan ,Salah satu bentuk pelestarian budaya.
+            <br>
+            <br>
+            <img src="img/batik.webp" alt="batik" width="300" height="150">
+            <br><br>
+        </li>
+    </ul>
+</section>
+
+
+<section>
+    <h2>Tujuan UMKM di Kabupaten Pekalongan</h2>
+    <p>Program pengembangan UMKM dan startup wirausaha tidak lepas dari sarana pembelajaran, transfer ilmu dan berjejaring. Salah satu fasilitas yang diberikan oleh Pemerintah Provinsi Jawa Tengah adalah UMKM Center, dan Kabupaten Pekalongan salah satu daerah yang memiliki UMKM Center sejak 2019.
+
+        Pada Selasa, 29 November 2022, Dinas Koperasi UKM dan Tenaga Kerja Kab. Pekalongan melaksanakan studi tiru ke UMKM Center Jawa Tengah dan Hetero Space Semarang di Jalan Setiabudi No. 192 Srondol Wetan, Semarang untuk meningkatkan kualitas dan optimalisasi pengelolaan UMKM Center Kab. Pekalongan. Kepala Dinkop UKM Naker Kab. Pekalongan, Siti Masruroh menyampaikan bahwa sejak adanya pandemi, UMKM Center Kab. Pekalongan belum dimanfaatkan secara maksimal. Siti Masruroh berharap kunjungan ini bisa memberikan gambaran dan masukan dalam pengelolaan dan optimalisasi UMKM Center Kab. Pekalongan dimasa mendatang.
+        
+        Hatta H. Yunus, Kepala Balai Pelatihan Koperasi UKM Prov. Jateng, mewakili Ibu Kepala Dinas Koperasi UKM, menyampaikan proses revitalisasi UMKM Center Jawa Tengah dan pembangunan Hetero Space Semarang. Program-program yang telah dilaksanakan berhasil menghidupkan UMKM Center dan memberikan ruang bagi pelaku UMKM, startup bisnis, generasi milenial dan masyarakat umum untuk saling berkolaborasi.
+        
+        Hatta berpesan, semua pihak harus digandeng untuk pengelolaan dan optimalisasi UMKM Center Kab. Pekalongan. Tidak hanya konteks bangunan fisik, tetapi program kegiatan yang bisa memberikan manfaat bagi masyarakat Kab. Pekalongan melalui UMKM Center Kab. Pekalongan yang lebih hidup dan meriah..</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 UMKM di Kabupaten Pekalongan. Semua hak cipta dilindungi.</p>
+</footer>
+
+</body>
+</html>
